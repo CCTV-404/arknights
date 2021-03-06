@@ -1,0 +1,35 @@
+from time import sleep
+import win32gui,win32ui,win32con,win32api
+def start_leidian():
+    win32api.ShellExecute(1, 'open', r'D:\Program Files (x86)\leidian\LDPlayer\leidian\dnmultiplayer.exe', '', '', 1)
+    sleep(3)
+    para_hld = win32gui.FindWindow(None, "雷电多开器")
+    win32gui.SetWindowPos(para_hld, win32con.HWND_TOPMOST, 0,0,660,600, win32con.SWP_NOACTIVATE| win32con.SWP_NOOWNERZORDER | win32con.SWP_SHOWWINDOW)
+    win32gui.SetForegroundWindow(para_hld)
+    win32api.SetCursorPos((24, 126))
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+    sleep(0.1)
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+    win32api.SetCursorPos((24, 177))
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+    sleep(0.1)
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+    win32api.SetCursorPos((129, 574))
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+    sleep(0.1)
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+    win32api.SetCursorPos((125, 477))
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+    sleep(0.1)
+    win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+    sleep(10)
+    win32gui.SendMessage(para_hld, win32con.WM_CLOSE)
+#     win32api.SetCursorPos((640, 19))
+#     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTDOWN, 0, 0)
+#     sleep(0.05)
+#     win32api.mouse_event(win32con.MOUSEEVENTF_LEFTUP, 0, 0)
+    sleep(60)
+# start_leidian()
+
+
+
