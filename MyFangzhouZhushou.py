@@ -227,11 +227,11 @@ class MyFangzhouZhushou():
     def factorying(self):
         if self.factorytion():
             sleep(8)
-            self.harvestion()
-            self.tradetion()
-            self.experiencetion()
-            self.electriction()
-            self.coretion()
+#             self.harvestion()
+#             self.tradetion()
+#             self.experiencetion()
+#             self.electriction()
+#             self.coretion()
             self.parlortion()
             self.workingtion()
             self.roomtion()
