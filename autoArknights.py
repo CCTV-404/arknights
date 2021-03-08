@@ -9,7 +9,7 @@ auto_setup(__file__)
 # dev = connect_device("Android://127.0.0.1:5037/emulator-5558")
 # begintion()
 links = [
-        "Android://127.0.0.1:5037/emulator-5558",   # 貌似
+#         "Android://127.0.0.1:5037/emulator-5558",   # 貌似
         "Android://127.0.0.1:5037/emulator-5556", # 天生
 #         "Android://127.0.0.1:5037/emulator-5558"    # 貌似
         ]
