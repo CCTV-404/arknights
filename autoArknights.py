@@ -11,11 +11,11 @@ auto_setup(__file__)
 links = [
 #         "Android://127.0.0.1:5037/emulator-5558",   # 貌似
         "Android://127.0.0.1:5037/emulator-5556", # 天生
-#         "Android://127.0.0.1:5037/emulator-5558"    # 貌似
+        "Android://127.0.0.1:5037/emulator-5558"    # 貌似
         ]
 account = MyFangzhouZhushou()
 flag = False
-# flag = True
+flag = True
 if flag:
 #     start_leidian()
     for link in links:
@@ -28,13 +28,14 @@ sleeptime = 3600*3.5
 
 
 for link in links:
+    sleep(10)
     dev = connect_device(link)
     account.factorying()
     account.friendstion()
     account.credit()
     account.recruition()
     account.tasktion()
-    sleep(3600*1.5)
+#     sleep(3600*1.1)
 account.end()
 # sleep(3600*3)
 # for link in links:

@@ -366,10 +366,11 @@ class MyFangzhouZhushou():
                 sleep(2)
                 if exists(Template(r"picture\z会客室收获.png", rgb=True, record_pos=(-0.401, -0.198), resolution=(1280, 720))):
                     touch(Template(r"picture\z返回.png", record_pos=(-0.447, -0.255), resolution=(1280, 720)))   
-                if skippable_wait_touch(Template(r"picture\z领取线索.png", rgb=False, record_pos=(-0.447, -0.255), resolution=(1280, 720))):
+                if skippable_wait_touch(Template(r"picture\z领取线索.png", rgb=True, record_pos=(-0.447, -0.255), resolution=(1280, 720))):
                     skippable_wait_touch(Template(r"picture\z领取线索2.png", record_pos=(-0.447, -0.255), resolution=(1280, 720)))
                     sleep(2)
                     skippable_wait_touch(Template(r"picture\z领取线索3.png", record_pos=(-0.447, -0.255), resolution=(1280, 720)))
+                    sleep(2)
                 if skippable_wait_touch(parlor_working_group[self.next_turn_num]):
                     skippable_wait_touch(Template(r"picture\z清空选择.png", record_pos=(-0.105, 0.246), resolution=(1280, 720)))
                     sleep(1)
@@ -477,6 +478,7 @@ class MyFangzhouZhushou():
         sleep(2)
         skippable_wait_touch(Template(r"picture\z主页菜单.png", record_pos=(-0.29, -0.251), resolution=(1280, 720)),timeout = 300)
         skippable_wait_touch(Template(r"picture\z主页首页.png", record_pos=(-0.428, -0.075), resolution=(1280, 720)),timeout = 300)
+
 
 
 
