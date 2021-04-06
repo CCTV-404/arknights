@@ -28,8 +28,8 @@ experience_working_goup_3 = [Template(r"picture/d火神.png",threshold=0.9,recor
 
 experience_working_goups = [experience_working_goup_1,experience_working_goup_2,experience_working_goup_3]
     # gold，金属
-gold_group_1 = [Template(r"picture/e槐琥.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e砾.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e清流.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720))]
-gold_group_2 = [Template(r"picture/e斑点.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e梅尔.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e迷迭香.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720))]
+gold_group_1 = [Template(r"picture/e斑点.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e砾.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e清流.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720))]
+gold_group_2 = [Template(r"picture/e槐琥.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e梅尔.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720)),Template(r"picture/e迷迭香.png",threshold=0.9,record_pos=(0,0),resolution=(1280,720))]
 
 
 
