@@ -1,0 +1,229 @@
+文件夹 PATH 列表
+卷序列号为 840A-6901
+C:.
+│  1.txt
+│  
+├─ab贸易站
+│      a1德克萨斯.png
+│      a1拉普兰德.png
+│      a1能天使.png
+│      a2古米.png
+│      a2慕斯.png
+│      a2雪雉.png
+│      a3夜刀.png
+│      a3月见夜.png
+│      a3空爆.png
+│      b1德克萨斯-working.png
+│      b1拉普兰德-working.png
+│      b1能天使-working.png
+│      b2古米-working.png
+│      b2慕斯-working.png
+│      b2雪雉-working.png
+│      b3夜刀-working.png
+│      b3月见夜-working.png
+│      b3空爆-working.png
+│      
+├─cd狗粮
+│      c1槐琥.png
+│      c1白雪.png
+│      c1霜叶.png
+│      c2Castle-3.png
+│      c2红豆.png
+│      c2食铁兽.png
+│      c3火神.png
+│      c3红云.png
+│      c3黑角.png
+│      d1槐琥.png
+│      d1白雪.png
+│      d1霜叶.png
+│      d2Castle-3.png
+│      d2红豆.png
+│      d2食铁兽.png
+│      d3火神.png
+│      d3红云.png
+│      d3黑角.png
+│      
+├─ef金属
+│      e1夜烟.png
+│      e1梅尔.png
+│      e1清流.png
+│      e2斑点.png
+│      e2砾.png
+│      e2赫默.png
+│      e3史都华德.png
+│      e3白面鸮.png
+│      e3香草.png
+│      f1夜烟.png
+│      f1梅尔.png
+│      f1清流.png
+│      f2斑点.png
+│      f2砾.png
+│      f2赫默.png
+│      f3史都华德.png
+│      f3白面鸮.png
+│      f3香草.png
+│      
+├─gh电力
+│      gTHRM-EX.png
+│      g伊芙利特.png
+│      g格雷伊.png
+│      g炎熔.png
+│      g阿消.png
+│      g雷蛇.png
+│      hTHRM-EX.png
+│      h伊芙利特.png
+│      h格雷伊.png
+│      h炎熔.png
+│      h阿消.png
+│      h雷蛇.png
+│      
+├─ij办公室
+│      i普罗旺斯.png
+│      i艾雅法拉.png
+│      j普罗旺斯.png
+│      j艾雅法拉.png
+│      
+├─k核心干员
+│      临光.png
+│      坚雷.png
+│      杜宾.png
+│      清道夫.png
+│      红.png
+│      诗怀雅.png
+│      阿米娅.png
+│      陈.png
+│      
+├─lm会客
+│      l守林人.png
+│      l断崖.png
+│      l星极.png
+│      m守林人.png
+│      m断崖.png
+│      m星极.png
+│      
+├─n宿舍
+│      nlancet-2.png
+│      n夜莺.png
+│      n安比尔.png
+│      n推进之王.png
+│      n断罪者.png
+│      n杜林.png
+│      n特米米.png
+│      n闪灵.png
+│      
+├─v购物
+│      v初级作战记录.png
+│      v固源岩.png
+│      v家具零件.png
+│      v异铁.png
+│      v技巧概要-卷1.png
+│      v技巧概要-卷2.png
+│      v招聘许可.png
+│      v源岩.png
+│      v碳素.png
+│      v聚酸酯.png
+│      v装置.png
+│      v赤金.png
+│      v酮凝集.png
+│      v龙门币.png
+│      
+├─w地点组
+│      w休息室01.png
+│      w休息室02.png
+│      w休息室03.png
+│      w休息室04.png
+│      w公开招募位1.png
+│      w公开招募位2.png
+│      w公开招募位3.png
+│      w公开招募位4.png
+│      w发电站01.png
+│      w发电站02.png
+│      w发电站03.png
+│      
+├─x招募标签
+│      x0新手.png
+│      x10重装干员.png
+│      x11辅助干员.png
+│      x12特种干员.png
+│      x13治疗.png
+│      x14支援.png
+│      x15输出.png
+│      x16群攻.png
+│      x17减速.png
+│      x18生存.png
+│      x19防护.png
+│      x1资深干员.png
+│      x20削弱.png
+│      x21位移.png
+│      x22控场.png
+│      x23爆发.png
+│      x24召唤.png
+│      x25快速复活.png
+│      x26费用回复.png
+│      x27支援机械.png
+│      x2高级资深干员.png
+│      x3远程位.png
+│      x4近战位.png
+│      x5先锋干员.png
+│      x6狙击干员.png
+│      x7医疗干员.png
+│      x8术师干员.png
+│      x9近卫干员.png
+│      
+├─y地点
+│      y主页菜单.png
+│      y任务.png
+│      y作战.png
+│      y公开招募.png
+│      y制造站.png
+│      y办公室.png
+│      y办公室0.png
+│      y基建.png
+│      y好友.png
+│      y好友列表.png
+│      y聘用候选人.png
+│      y访问下位.png
+│      y访问基建.png
+│      y贸易站.png
+│      y返回.png
+│      y邮件.png
+│      y采购中心.png
+│      y首页.png
+│      
+└─z其余
+        y信用交易所.png
+        y收取信用.png
+        zSTART.png
+        z交流达到上限.png
+        z关闭.png
+        z制造站01.png
+        z制造站02.png
+        z制造站03.png
+        z制造站04.png
+        z启动辅助.png
+        z圆对号.png
+        z密码.png
+        z开始唤醒.png
+        z开始圆对号.png
+        z恢复类后勤-蓝色.png
+        z恢复类后勤.png
+        z收取所有邮件.png
+        z未进驻-蓝色.png
+        z未进驻.png
+        z清空.png
+        z清空选择.png
+        z登录.png
+        z空白.png
+        z笑脸.png
+        z筛选成功.png
+        z红色圆对号.png
+        z记忆模糊.png
+        z账号登录.png
+        z贸易站01.png
+        z贸易站02.png
+        z进入办公室.png
+        z进去xx中.png
+        z进驻.png
+        z选择清单.png
+        z领取.png
+        

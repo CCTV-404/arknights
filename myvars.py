@@ -109,3 +109,4 @@ recruit_position_group = [Template(r"picture/w公开招募位1.png", threshold=0
 
 
 
+
